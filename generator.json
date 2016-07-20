@@ -1,0 +1,6 @@
+{
+	"baseName": "myapp",
+	"orm": "ar",
+	"entities": [],
+	"resources": []
+}
