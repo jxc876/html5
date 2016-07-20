@@ -1,6 +1,6 @@
 # About
 
-Showing how to enable HTML 5 mode with Angular + Sinatra
+Sample project showing how to enable HTML 5 mode with Angular + Sinatra.
 
 1. configure route: `$locationProvider.html5Mode(true);`
 2. set app base:  `<base href="/">`
